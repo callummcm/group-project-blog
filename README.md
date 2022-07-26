@@ -1,10 +1,9 @@
-# Final project &ndash; A personal blogging system &ndash;
+# Final project &ndash; A personal blogging system
 
-Test account
-username: test
+Test account <br />
+username: test <br />
 password: test
 
-==========
 Group project that was completed while studying at University of Auckland.
 
 Sections implemented individually
